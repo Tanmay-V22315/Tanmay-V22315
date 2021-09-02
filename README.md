@@ -1,16 +1,14 @@
-### Hi there 👋
+## About Me 👋
 
-<!--
-**Tanmay-V22315/Tanmay-V22315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is **Tanmay Vemuri**. I, like every other person, like coffee and/or tea(not that that matters). I like [making computers talk](https://www.ibm.com/cloud/learn/natural-language-processing) because.....well there's reasons. I also like solving competitive coding questions on codewars, leetcode or what have you. Outside the realm of computers, I like to play football (soccer for all you Americans out there), read some Sherlock Holmes and a lot of books in general. 
 
-Here are some ideas to get you started:
+I also like to play Video Games.....like a lot...it's like a drug to me. (an accidental twilight reference, don't see that very often) I'll take you on on Halo 2 any-time any-day and probably....suck because as it turns out; I'm not very good at it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Project_NEUROMANCER](https://gitlab.com/Tanmay-V22315/Project_NEUROMANCER)
+- 🌱 I’m currently learning [Algorithms](https://www.codewars.com/users/Tanmay-V22315/stats) and [6.00x on edx.org](https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2021a/home) 
+
+Coincidentally, I used to make 3D-art before I got into programming, which was not very long ago (as of writing this README). If you're curious, you can take a look at it [here](https://www.artstation.com/tanmayvemuri/albums/all)
+
+####  My Codewars progress and stuff:
+
+![codewars_progress](https://www.codewars.com/users/Tanmay-V22315/badges/large)
